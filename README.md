@@ -1,5 +1,4 @@
 
-![Header](./git_prev.png)
 <!--
 **varpi2520/varpi2520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Header](https://github.com/user-attachments/assets/458f71f2-599b-4d99-b424-d1b14b9f8b71)
